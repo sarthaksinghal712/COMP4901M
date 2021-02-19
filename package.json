@@ -1,0 +1,24 @@
+{
+    "name": "comp4901m",
+    "version": "1.0.0",
+    "description": "COMP 4901M Assignments",
+    "main": "index.html",
+    "scripts": {
+        "start": "npm run lite",
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "lite": "lite-server"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/sarthaksinghal712/COMP4901M.git"
+    },
+    "author": "Sarthak Singhal (20749901)",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/sarthaksinghal712/COMP4901M/issues"
+    },
+    "homepage": "https://github.com/sarthaksinghal712/COMP4901M#readme",
+    "dependencies": {
+        "lite-server": "^2.6.1"
+    }
+}
